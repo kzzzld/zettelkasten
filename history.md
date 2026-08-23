@@ -1,2 +1,2 @@
 
-[alternate history](alternate%20history)
+[alternate history](alternate%20history.md)

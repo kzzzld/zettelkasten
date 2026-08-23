@@ -5,4 +5,4 @@ I take **public** notes here!
 For my private notes, don't click anywhere because I won't share them. :D
 
 [tech](tech.md)
-[history](history)
+[history](history.md)

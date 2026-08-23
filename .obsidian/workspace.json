@@ -11,14 +11,14 @@
             "id": "d982e80fb16259bf",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
+                "file": "alternate history.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "alternate history"
             }
           }
         ]
@@ -199,15 +199,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce03b490fd9e7edd",
+  "active": "d982e80fb16259bf",
   "lastOpenFiles": [
-    "if nazis won.md",
-    "alternate history.md",
     "history.md",
-    "readme.md",
+    "homelabbing.md",
+    "How to Homelab for Beginners.md",
+    "if nazis won.md",
     "self-hosting.md",
     "tech.md",
-    "How to Homelab for Beginners.md",
-    "homelabbing.md"
+    "readme.md",
+    "alternate history.md"
   ]
 }

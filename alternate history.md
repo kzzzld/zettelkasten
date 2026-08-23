@@ -1,2 +1,2 @@
 
-[if nazis won](if%20nazis%20won)
+[if nazis won](if%20nazis%20won.md)
