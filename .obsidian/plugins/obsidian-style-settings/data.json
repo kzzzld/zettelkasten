@@ -1,0 +1,5 @@
+{
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-blue",
+  "catppuccin-heading-settings@@ctp-page-title": "var(--ctp-text)",
+  "catppuccin-icon-styles@@ctp-icon-hide": false
+}

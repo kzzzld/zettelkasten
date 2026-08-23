@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "Catppuccin",
+  "accentColor": "#89b4fa",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
+}
