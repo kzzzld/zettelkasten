@@ -2,4 +2,4 @@
 
 Be independent!
 
-[[homelabbing]]
+[homelabbing](homelabbing.md)
