@@ -1,5 +1,3 @@
-# How to Homelab for Beginners
-
 Hello! Homelabbing is a great hobby. You can self-host a lot of things and be independent from monopolls.
 Today, we're going deeply Homelab. Let's get started.
 

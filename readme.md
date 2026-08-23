@@ -1,5 +1,3 @@
-# My Telekasten Notes
-
 Welcome to my telekasten!
 
 I take **public** notes here!

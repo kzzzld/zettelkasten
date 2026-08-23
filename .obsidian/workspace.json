@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech.md",
+                "file": "homelabbing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tech"
+              "title": "homelabbing"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech.md",
+                "file": "homelabbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech.md",
+                "file": "homelabbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech.md",
+                "file": "homelabbing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,10 +190,10 @@
   },
   "active": "d982e80fb16259bf",
   "lastOpenFiles": [
+    "tech.md",
     "self-hosting.md",
     "readme.md",
-    "How to Homelab for Beginners.md",
     "homelabbing.md",
-    "tech.md"
+    "How to Homelab for Beginners.md"
   ]
 }
